@@ -1,4 +1,4 @@
-# CNNCrawler
+# News_Crawler
 Python implementation of a web crawler using BeautifulSoup4 module 
 
 7/6/16: Initial Commit
